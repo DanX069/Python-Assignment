@@ -1,6 +1,6 @@
 # Python-Assignment
 
-This is a Python Assignment for the course CS253 at Dept. of Computer Science and Engineering at IIT Kanpur.
+This is a Python Assignment for the course CS253: Software Development and Operations at Dept. of Computer Science and Engineering at IIT Kanpur.
 
 In this assignment, you will be building a classifier for cervical cancer screening prediction.
 You will be using the Kaggle dataset [Cervical Cancer Risk Factors Dataset]
